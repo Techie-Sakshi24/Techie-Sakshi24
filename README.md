@@ -1,31 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sakshi Sharad Kale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Sakshi+Sharad+Kale;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;AI+%26+Web+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techie-sakshi24&label=Profile%20views&color=0e75b6&style=flat" alt="techie-sakshi24" /> </p>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techie-sakshi24" alt="techie-sakshi24" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=techie-sakshi24&label=Profile%20views&color=0e75b6&style=flat" alt="techie-sakshi24" />
+</p>
 
-- 🔭 I’m currently working on [Sakshi-event-talks-app](https://github.com/Techie-Sakshi24/Sakshi-event-talks-app)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=techie-sakshi24&theme=flat&no-frame=true&row=1&column=6" alt="techie-sakshi24 trophies" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Spring boot, Agentic AI, Go**
+---
 
-- 👯 I’m looking to collaborate on [CareerLens-Agent](https://github.com/Techie-Sakshi24/CareerLens-Agent)
+- 🔭 I'm currently working on [Sakshi-event-talks-app](https://github.com/Techie-Sakshi24/Sakshi-event-talks-app)
 
-- 🤝 I’m looking for help with [softcore-dashboard](https://github.com/Techie-Sakshi24/softcore-dashboard)
+- 🌱 I'm currently learning **Spring Boot, Agentic AI, Go**
+
+- 👯 I'm looking to collaborate on [CareerLens-Agent](https://github.com/Techie-Sakshi24/CareerLens-Agent)
+
+- 🤝 I'm looking for help with [softcore-dashboard](https://github.com/Techie-Sakshi24/softcore-dashboard)
 
 - 📫 How to reach me **sakshiskale.2405@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakshi-kale-ab0a622b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-kale-ab0a622b0" height="30" width="40" /></a>
-<a href="https://kaggle.com/saakshithekaggler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saakshithekaggler" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakshik_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshik_10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sakshiskzr9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sakshiskzr9n" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sakshi-kale-ab0a622b0" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://kaggle.com/saakshithekaggler" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>&nbsp;
+  <a href="https://www.leetcode.com/sakshik_10" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sakshiskzr9n" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+  </a>&nbsp;
+  <a href="mailto:sakshiskale.2405@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,html,css,tailwind,vue,mysql,firebase,aws,docker,git,postman,gcp,jenkins&perline=9" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techie-sakshi24&show_icons=true&locale=en" alt="techie-sakshi24" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techie-sakshi24&" alt="techie-sakshi24" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techie-sakshi24&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="techie-sakshi24 stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sakshi24&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
+</p>
+
+<h3 align="left">🔥 Streak Stats:</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=techie-sakshi24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techie-sakshi24&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
