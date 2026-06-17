@@ -5,16 +5,11 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techie-sakshi24&label=Profile%20views&color=0e75b6&style=flat" alt="techie-sakshi24" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=techie-sakshi24&theme=flat&no-frame=true&row=1&column=6" alt="techie-sakshi24 trophies" />
   </a>
 </p>
 
----
 
 - 🔭 I'm currently working on [Sakshi-event-talks-app](https://github.com/Techie-Sakshi24/Sakshi-event-talks-app)
 
@@ -25,8 +20,6 @@
 - 🤝 I'm looking for help with [softcore-dashboard](https://github.com/Techie-Sakshi24/softcore-dashboard)
 
 - 📫 How to reach me **sakshiskale.2405@gmail.com**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,14 +40,10 @@
   </a>
 </p>
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,html,css,tailwind,vue,mysql,firebase,aws,docker,git,postman,gcp,jenkins&perline=9" />
 </p>
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
@@ -68,8 +57,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=techie-sakshi24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techie-sakshi24&theme=tokyo-night&hide_border=true" alt="activity graph" />
