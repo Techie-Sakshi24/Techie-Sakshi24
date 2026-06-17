@@ -2,13 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Sakshi+Sharad+Kale;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;AI+%26+Web+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=techie-sakshi24&theme=flat&no-frame=true&row=1&column=6" alt="techie-sakshi24 trophies" />
-  </a>
-</p>
+<h3 align="center">A aspiring full stack developer from India</h3>
 
 
 - 🔭 I'm currently working on [Sakshi-event-talks-app](https://github.com/Techie-Sakshi24/Sakshi-event-talks-app)
